@@ -8,4 +8,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/pablito1410/sample-remote-config.git
+          uri: https://github.com/pablito1410/microservices-example/config-repo
